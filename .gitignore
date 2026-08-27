@@ -1,6 +1,3 @@
-# Token del bot - NUNCA subir esto
-config.py
-
 # Python
 __pycache__/
 *.pyc
