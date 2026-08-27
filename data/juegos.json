@@ -1,0 +1,107 @@
+[
+  {
+    "titulo": "Super Mario Bros",
+    "plataforma": "NES",
+    "anio": 1985,
+    "descripcion": "El fontanero más famoso del mundo salva a la Princesa Peach del Rey Koopa.",
+    "dato_curioso": "Mario se llamaba originalmente 'Jumpman' y fue diseñado por Shigeru Miyamoto."
+  },
+  {
+    "titulo": "The Legend of Zelda",
+    "plataforma": "NES",
+    "anio": 1986,
+    "descripcion": "Link debe rescatar a la princesa Zelda y derrotar a Ganon.",
+    "dato_curioso": "Fue uno de los primeros juegos en permitir guardar progresos."
+  },
+  {
+    "titulo": "Sonic the Hedgehog",
+    "plataforma": "Sega Genesis",
+    "anio": 1991,
+    "descripcion": "El erizo azul más rápido del mundo contra el Dr. Robotnik.",
+    "dato_curioso": "Sonic fue creado para competir directamente con Mario de Nintendo."
+  },
+  {
+    "titulo": "Street Fighter II",
+    "plataforma": "Arcade/SNES",
+    "anio": 1991,
+    "descripcion": "El juego de lucha que definió el género con sus personajes memorables.",
+    "dato_curioso": "Ryu y Ken fueron inspirados por los luchadores de artes marciales de los 80."
+  },
+  {
+    "titulo": "Tetris",
+    "plataforma": "Game Boy",
+    "anio": 1989,
+    "descripcion": "El juego de bloques que adictó al mundo entero.",
+    "dato_curioso": "Fue creado por Alexey Pajitnov en la Unión Soviética en 1984."
+  },
+  {
+    "titulo": "Mega Man 2",
+    "plataforma": "NES",
+    "anio": 1988,
+    "descripcion": "El robot azul debe derrotar a 8 robots malvados y al Dr. Wily.",
+    "dato_curioso": "La banda sonora de Mega Man 2 es considerada una de las mejores de la historia de los videojuegos."
+  },
+  {
+    "titulo": "Contra",
+    "plataforma": "NES",
+    "anio": 1987,
+    "descripcion": "Dos comandos deben salvar al mundo de una amenaza alienígena.",
+    "dato_curioso": "El código Konami (↑↑↓↓←→←→BA) es uno de los más famosos de la historia."
+  },
+  {
+    "titulo": "Castlevania",
+    "plataforma": "NES",
+    "anio": 1986,
+    "descripcion": "Simon Belmont debe derrotar a Conde Drácula en su castillo.",
+    "dato_curioso": "La franquicia sigue activa con juegos modernos como 'Symphony of the Night'."
+  },
+  {
+    "titulo": "Final Fantasy VII",
+    "plataforma": "PlayStation",
+    "anio": 1997,
+    "descripcion": "Cloud Strife y sus amigos luchan contra la corporación Shinra.",
+    "dato_curioso": "La muerte de Aerith es una de las escenas más impactantes de la historia de los videojuegos."
+  },
+  {
+    "titulo": "Chrono Trigger",
+    "plataforma": "SNES",
+    "anio": 1995,
+    "descripcion": "Un grupo de viajeros del tiempo debe evitar una catástrofe futura.",
+    "dato_curioso": "Fue desarrollado por los creadores de Final Fantasy y Dragon Quest."
+  },
+  {
+    "titulo": "Donkey Kong Country",
+    "plataforma": "SNES",
+    "anio": 1994,
+    "descripcion": "Donkey Kong y Diddy Kong deben recuperar sus plátanos robados.",
+    "dato_curioso": "Fue uno de los primeros juegos en usar gráficos 3D pre-renderizados."
+  },
+  {
+    "titulo": "Super Metroid",
+    "plataforma": "SNES",
+    "anio": 1994,
+    "descripcion": "Samus Aran debe rescatar a un parásito metroid en el planeta Zebes.",
+    "dato_curioso": "Es considerado por muchos críticos como uno de los mejores juegos de todos los tiempos."
+  },
+  {
+    "titulo": "GoldenEye 007",
+    "plataforma": "Nintendo 64",
+    "anio": 1997,
+    "descripcion": "James Bond debe detener un plan para controlar el mundo.",
+    "dato_curioso": "Revolutionó los shooters multijugador en consola."
+  },
+  {
+    "titulo": "Pokémon Rojo/Azul",
+    "plataforma": "Game Boy",
+    "anio": 1996,
+    "descripcion": "Captura, entrena y combate con criaturas llamadas Pokémon.",
+    "dato_curioso": "El concepto original vino de los escarabajos que coleccionaba el creador, Satoshi Tajiri."
+  },
+  {
+    "titulo": "The Secret of Monkey Island",
+    "plataforma": "PC",
+    "anio": 1990,
+    "descripcion": "Guybrush Threepwood quiere convertirse en pirata y rescatar a su amor.",
+    "dato_curioso": "Fue creado por Ron Gilbert y Tim Schafer, leyendas de los videojuegos."
+  }
+]

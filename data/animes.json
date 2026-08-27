@@ -1,0 +1,107 @@
+[
+  {
+    "titulo": "Dragon Ball Z",
+    "episodios": 291,
+    "genero": "Acción/Aventura",
+    "sinopsis": "Goku y sus amigos defienden la Tierra de enemigos extraterrestres y sobrenaturales.",
+    "dato_curioso": "La Transformación Super Saiyan se convirtió en un ícono cultural global."
+  },
+  {
+    "titulo": "Sailor Moon",
+    "episodios": 200,
+    "genero": "Magical Girl/Acción",
+    "sinopsis": "Usagi Tsukino se transforma en la guerrera Sailor Moon para proteger la Tierra.",
+    "dato_curioso": "Popularizó el género 'magical girl' en Occidente."
+  },
+  {
+    "titulo": "Neon Genesis Evangelion",
+    "episodios": 26,
+    "genero": "Mecha/Psicológico",
+    "sinopsis": "Pilotos adolescentes luchan contra seres misteriosos en biomecánicos gigantes.",
+    "dato_curioso": "La serie es conocida por su complejidad psicológica y final controversial."
+  },
+  {
+    "titulo": "Cowboy Bebop",
+    "episodios": 26,
+    "genero": "Ciencia Ficción/Noir",
+    "sinopsis": "Un grupo de cazarrecompensas viaja por el espacio buscando criminales.",
+    "dato_curioso": "La banda sonora de Yoko Kanno es considerada una de las mejores de la animación."
+  },
+  {
+    "titulo": "Rurouni Kenshin",
+    "episodios": 95,
+    "genero": "Acción/Historia",
+    "sinopsis": "Un ex asesino busca redimirse protegiendo a los inocentes en la era Meiji.",
+    "dato_curioso": "El personaje está basado en un espadachín real japonés."
+  },
+  {
+    "titulo": "Pokémon",
+    "episodios": 276,
+    "genero": "Aventura/Comedia",
+    "sinopsis": "Ash Ketchum viaja por el mundo atrapando y entrenando Pokémon.",
+    "dato_curioso": "El episodio 'Dentro de la Tormenta Eléctrica' fue prohibido en varios países."
+  },
+  {
+    "titulo": "Beyblade",
+    "episodios": 51,
+    "genero": "Deporte/Acción",
+    "sinopsis": "Un grupo de jóvenes compite en torneos de pelea con trompos llamados Beyblades.",
+    "dato_curioso": "El show generó una franquicia de juguetes multimillonaria."
+  },
+  {
+    "titulo": "Yu Yu Hakusho",
+    "episodios": 112,
+    "genero": "Acción/Aventura",
+    "sinopsis": "Un joven muere y es resucitado como detective del mundo espiritual.",
+    "dato_curioso": "Fue creado por el autor de Hunter x Hunter."
+  },
+  {
+    "titulo": "Saint Seiya",
+    "episodios": 114,
+    "genero": "Acción/Mitología",
+    "sinopsis": "Un grupo de guerreros con armaduras protegen a la diosa Atenea.",
+    "dato_curioso": "La serie fue extremadamente popular en Latinoamérica y Europa."
+  },
+  {
+    "titulo": "Slam Dunk",
+    "episodios": 101,
+    "genero": "Deporte/Comedia",
+    "sinopsis": "Un delincuente se une al equipo de baloncesto de su escuela para impressionar a una chica.",
+    "dato_curioso": "Aumentó significativamente la popularidad del baloncesto en Japón."
+  },
+  {
+    "titulo": "InuYasha",
+    "episodios": 167,
+    "genero": "Fantasía/Aventura",
+    "sinopsis": "Una chica viaja al pasado japonés y se encuentra con un medio demonio.",
+    "dato_curioso": "Fue una de las primeras series en ser transmitida por Adult Swim."
+  },
+  {
+    "titulo": "Fullmetal Alchemist",
+    "episodios": 51,
+    "genero": "Fantasía/Aventura",
+    "sinopsis": "Dos hermanos buscan la piedra filosofal para recuperar sus cuerpos.",
+    "dato_curioso": "La serie aborda temas profundos como la alquimia y la moralidad."
+  },
+  {
+    "titulo": "Naruto",
+    "episodios": 220,
+    "genero": "Acción/Aventura",
+    "sinopsis": "Un ninja rechazado por su aldea busca convertirse en el líder de su comunidad.",
+    "dato_curioso": "El manga vendió más de 250 millones de copias en todo el mundo."
+  },
+  {
+    "titulo": "One Piece",
+    "episodios": 200,
+    "genero": "Aventura/Comedia",
+    "sinopsis": "Monkey D. Luffy busca el tesoro definitivo, el One Piece.",
+    "dato_curioso": "Es el manga más vendido de la historia con más de 500 millones de copias."
+  },
+  {
+    "titulo": "Detective Conan",
+    "episodios": 100,
+    "genero": "Misterio/Aventura",
+    "sinopsis": "Un detective adolescente es transformado en niño y debe resolver crímenes.",
+    "dato_curioso": "La serie sigue en emisión desde 1996 y tiene más de 1000 episodios."
+  }
+]

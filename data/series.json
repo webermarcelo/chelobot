@@ -1,0 +1,121 @@
+[
+  {
+    "titulo": "Friends",
+    "anio": 1994,
+    "temporadas": 10,
+    "genero": "Comedia",
+    "sinopsis": "Seis amigos navegan la vida y el amor en Nueva York.",
+    "dato_curioso": "El café Central Perk era real y se llamaba 'Manhattan Beach Coffee Company'."
+  },
+  {
+    "titulo": "Los Simpson",
+    "anio": 1989,
+    "temporadas": 35,
+    "genero": "Animación/Comedia",
+    "sinopsis": "La vida de la familia Simpson en la ciudad de Springfield.",
+    "dato_curioso": "Es la serie animada más longeva de la historia de la televisión."
+  },
+  {
+    "titulo": "Seinfeld",
+    "anio": 1989,
+    "temporadas": 9,
+    "genero": "Comedia",
+    "sinopsis": "Un comediante y sus amigos en Nueva York."
+  },
+  {
+    "titulo": "Fresh Prince of Bel-Air",
+    "anio": 1990,
+    "temporadas": 6,
+    "genero": "Comedia",
+    "sinopsis": "Un adolescente de Filadelfia se muda con su familia adinerada en Bel-Air.",
+    "dato_curioso": "Will Smith era un desconocido cuando audicionó; la serie lo hizo famoso."
+  },
+  {
+    "titulo": "Buffy la Cazavampiros",
+    "anio": 1997,
+    "temporadas": 7,
+    "genero": "Fantasía/Acción",
+    "sinopsis": "Una adolescente debe equilibrar su vida normal con su deber de cazar vampiros.",
+    "dato_curioso": "Joss Whedon creó un lenguaje completo para los demonios del universo Buffy."
+  },
+  {
+    "titulo": "The X-Files",
+    "anio": 1993,
+    "temporadas": 11,
+    "genero": "Ciencia Ficción/Thriller",
+    "sinopsis": "Dos agentes del FBI investigan fenómenos paranormales.",
+    "dato_curioso": "La frase 'The truth is out there' se convirtió en un lema de la cultura pop."
+  },
+  {
+    "titulo": "ER",
+    "anio": 1994,
+    "temporadas": 15,
+    "genero": "Drama/Médico",
+    "sinopsis": "La vida de los médicos y pacientes en una sala de emergencias de Chicago.",
+    "dato_curioso": "George Clooney se hizo famoso gracias a su papel como Dr. Doug Ross."
+  },
+  {
+    "titulo": "Frasier",
+    "anio": 1993,
+    "temporadas": 11,
+    "genero": "Comedia",
+    "sinopsis": "Un psiquiatra de radio regresa a Seattle y vive con su padre.",
+    "dato_curioso": "Ganó 37 Emmy Awards, un récord para una serie de comedia."
+  },
+  {
+    "titulo": "Home Improvement",
+    "anio": 1991,
+    "temporadas": 8,
+    "genero": "Comedia",
+    "sinopsis": "Un presentador de un show de mejoras del hogar lidia con su familia.",
+    "dato_curioso": "Tim Allen basó mucho del show en su experiencia como comediante en vivo."
+  },
+  {
+    "titulo": "Boy Meets World",
+    "anio": 1993,
+    "temporadas": 7,
+    "genero": "Comedia/Drama",
+    "sinopsis": "Un adolescente aprende sobre la vida con la ayuda de su profesor Mr. Feeny.",
+    "dato_curioso": "La serie tuvo un spin-off llamado 'Girl Meets World' en 2014."
+  },
+  {
+    "titulo": "Married... with Children",
+    "anio": 1987,
+    "temporadas": 11,
+    "genero": "Comedia",
+    "sinopsis": "La vida de la desafortunada familia Bundy en Chicago.",
+    "dato_curioso": "Fue la primera sitcom en ser clasificada TV-14 para adultos."
+  },
+  {
+    "titulo": "The Fresh Prince of Bel-Air",
+    "anio": 1990,
+    "temporadas": 6,
+    "genero": "Comedia",
+    "sinopsis": "Un adolescente de Filadelfia se muda con su familia adinerada en Bel-Air.",
+    "dato_curioso": "El tema musical fue escrito y cantado por el propio Will Smith."
+  },
+  {
+    "titulo": "Sabrina la Brujita",
+    "anio": 1996,
+    "temporadas": 7,
+    "genero": "Fantasía/Comedia",
+    "sinopsis": "Una adolescente descubre que es bruja y debe ocultarlo.",
+    "dato_curioso": "Melissa Joan Hart era fan del cómic antes de ser elegida para el papel."
+  },
+  {
+    "titulo": "Hombres de Negro",
+    "anio": 1997,
+    "temporadas": 4,
+    "genero": "Ciencia Ficción/Comedia",
+    "sinopsis": "Agentes secretos que regulan la actividad extraterrestre en la Tierra.",
+    "dato_curioso": "La serie fue desarrollada por los mismos creadores de la película."
+  },
+  {
+    "titulo": "Dawson's Creek",
+    "anio": 1998,
+    "temporadas": 6,
+    "genero": "Drama/Romance",
+    "sinopsis": "Un grupo de amigos crece en un pequeño pueblo costero.",
+    "dato_curioso": "El show fue filmado en Wilmington, Carolina del Norte, que ahora se llama 'Cape Mitchell'."
+  }
+]

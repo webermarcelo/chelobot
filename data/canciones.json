@@ -1,0 +1,107 @@
+[
+  {
+    "titulo": "Smells Like Teen Spirit",
+    "artista": "Nirvana",
+    "album": "Nevermind",
+    "anio": 1991,
+    "dato_curioso": "Kurt Cobain escribió la letra como una broma, pero se convirtió en el himno de la generación X."
+  },
+  {
+    "titulo": "...Baby One More Time",
+    "artista": "Britney Spears",
+    "album": "...Baby One More Time",
+    "anio": 1999,
+    "dato_curioso": "El video fue filmado en una escuela real y Britney tenía 17 años."
+  },
+  {
+    "titulo": "Wannabe",
+    "artista": "Spice Girls",
+    "album": "Spice",
+    "anio": 1996,
+    "dato_curioso": "La canción estuvo 7 semanas en el número 1 en el Reino Unido."
+  },
+  {
+    "titulo": "I Want It That Way",
+    "artista": "Backstreet Boys",
+    "album": "Millennium",
+    "anio": 1999,
+    "dato_curioso": "Max Martin, el productor, escribió la canción en solo 30 minutos."
+  },
+  {
+    "titulo": "Wonderwall",
+    "artista": "Oasis",
+    "album": "(What's the Story) Morning Glory?",
+    "anio": 1995,
+    "dato_curioso": "Liam Gallagher cantó la canción con una fractura en la costilla."
+  },
+  {
+    "titulo": "Basket Case",
+    "artista": "Green Day",
+    "album": "Dookie",
+    "anio": 1994,
+    "dato_curioso": "Billie Joe Armstrong escribió la canción sobre sus ataques de ansiedad."
+  },
+  {
+    "titulo": "MMMBop",
+    "artista": "Hanson",
+    "album": "Middle of Nowhere",
+    "anio": 1997,
+    "dato_curioso": "Los hermanos Hanson tenían 16, 13 y 11 años cuando grabaron la canción."
+  },
+  {
+    "titulo": "Under the Bridge",
+    "artista": "Red Hot Chili Peppers",
+    "album": "Blood Sugar Sex Magik",
+    "anio": 1991,
+    "dato_curioso": "La canción habla de la soledad de Anthony Kiedis en Los Ángeles."
+  },
+  {
+    "titulo": "No Scrubs",
+    "artista": "TLC",
+    "album": "FanMail",
+    "anio": 1999,
+    "dato_curioso": "La canción fue escrita por Kandi Burruss, que luego sería estrella de reality shows."
+  },
+  {
+    "titulo": "Zombie",
+    "artista": "The Cranberries",
+    "album": "No Need to Argue",
+    "anio": 1994,
+    "dato_curioso": "Fue escrita como protesta contra los conflictos en Irlanda del Norte."
+  },
+  {
+    "titulo": "Gangsta's Paradise",
+    "artista": "Coolio ft. L.V.",
+    "album": "Gangsta's Paradise (Soundtrack)",
+    "anio": 1995,
+    "dato_curioso": "La canción fue para la película 'Dangerous Minds' con Michelle Pfeiffer."
+  },
+  {
+    "titulo": "Waterfalls",
+    "artista": "TLC",
+    "album": "CrazySexyCool",
+    "anio": 1995,
+    "dato_curioso": "El video fue uno de los primeros en usar efectos especiales avanzados."
+  },
+  {
+    "titulo": "Smooth",
+    "artista": "Santana ft. Rob Thomas",
+    "album": "Supernatural",
+    "anio": 1999,
+    "dato_curioso": "Estuvo 12 semanas en el número 1 del Billboard Hot 100."
+  },
+  {
+    "titulo": "Livin' La Vida Loca",
+    "artista": "Ricky Martin",
+    "album": "Ricky Martin",
+    "anio": 1999,
+    "dato_curioso": "Marcó el inicio del 'Latin Pop' mainstream en Estados Unidos."
+  },
+  {
+    "titulo": "Bohemian Like You",
+    "artista": "The Dandy Warhols",
+    "album": "...The Dandy Warhols Come Down",
+    "anio": 1998,
+    "dato_curioso": "La canción fue usada en un famoso anuncio de Vodafone en 2000."
+  }
+]

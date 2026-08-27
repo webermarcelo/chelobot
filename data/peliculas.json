@@ -1,0 +1,107 @@
+[
+  {
+    "titulo": "Titanic",
+    "anio": 1997,
+    "genero": "Romance/Drama",
+    "sinopsis": "Un romance a bordo del famoso transatlántico en su viaje inaugural hacia América.",
+    "dato_curioso": "Fue la primera película en superar los $1000 millones en taquilla mundial."
+  },
+  {
+    "titulo": "Matrix",
+    "anio": 1999,
+    "genero": "Ciencia Ficción/Acción",
+    "sinopsis": "Un hacker descubre que la realidad es una simulación creada por máquinas.",
+    "dato_curioso": "El efecto 'bullet time' fue revolucionario y copiado en muchas películas posteriores."
+  },
+  {
+    "titulo": "Jurassic Park",
+    "anio": 1993,
+    "genero": "Aventura/Sci-Fi",
+    "sinopsis": "Un parque temático con dinosaurios clonados sale terriblemente mal.",
+    "dato_curioso": "Steven Spielberg usó una mezcla de animatrónica y CGI, revolucionando los efectos especiales."
+  },
+  {
+    "titulo": "El Club de la Pelea",
+    "anio": 1999,
+    "genero": "Drama/Thriller",
+    "sinopsis": "Un oficinista insomne forma un club de lucha clandestino con un vendedor de jabón.",
+    "dato_curioso": "La película fue un fracaso en taquilla, pero se convirtió en culto con el DVD."
+  },
+  {
+    "titulo": "Toy Story",
+    "anio": 1995,
+    "genero": "Animación/Comedia",
+    "sinopsis": "Los juguetes cobran vida cuando los humanos no están presentes.",
+    "dato_curioso": "Fue la primera película completamente animada por computadora."
+  },
+  {
+    "titulo": "Pulp Fiction",
+    "anio": 1994,
+    "genero": "Crimen/Drama",
+    "sinopsis": "Historias entrelazadas de crimen y redención en Los Ángeles.",
+    "dato_curioso": "La escena del baile de John Travolta e Uma Thurman es una de las más icónicas del cine."
+  },
+  {
+    "titulo": "Forrest Gump",
+    "anio": 1994,
+    "genero": "Drama/Romance",
+    "sinopsis": "Un hombre con bajo coeficiente intelectual vive experiencias extraordinarias.",
+    "dato_curioso": "La frase 'Mi mamá decía que la vida es como una caja de bombones' es una de las más recordadas."
+  },
+  {
+    "titulo": "Terminator 2: El Juicio Final",
+    "anio": 1991,
+    "genero": "Acción/Sci-Fi",
+    "sinopsis": "Un terminator reprogramado protege a John Connor de un Terminator más avanzado.",
+    "dato_curioso": "El T-1000 fue el primer villano completamente hecho con CGI en una película de acción."
+  },
+  {
+    "titulo": "Ghostbusters",
+    "anio": 1984,
+    "genero": "Comedia/Fantástico",
+    "sinopsis": "Un grupo de parapsicólogos funda una empresa de exterminio de fantasmas.",
+    "dato_curioso": "El Parker Drive-In de la película fue demolido, pero se construyó uno nuevo para los fans."
+  },
+  {
+    "titulo": "Back to the Future",
+    "anio": 1985,
+    "genero": "Aventura/Sci-Fi",
+    "sinopsis": "Un adolescente viaja al pasado en un DeLorean modificado por un científico loco.",
+    "dato_curioso": "El DeLorean se convirtió en un ícono de los 80 y sigue siendo reconocible hoy."
+  },
+  {
+    "titulo": "Grease",
+    "anio": 1978,
+    "genero": "Musical/Romance",
+    "sinopsis": "Un romance de verano se complica cuando ambos regresan a la escuela.",
+    "dato_curioso": "La canción 'You're the One That I Want' fue escrita específicamente para la película."
+  },
+  {
+    "titulo": "E.T. el Extraterrestre",
+    "anio": 1982,
+    "genero": "Ciencia Ficción/Drama",
+    "sinopsis": "Un niño hace amistad con un alienígena varado en la Tierra.",
+    "dato_curioso": "Fue la película más taquillera de la historia hasta 1993."
+  },
+  {
+    "titulo": "Los Goonies",
+    "anio": 1985,
+    "genero": "Aventura/Comedia",
+    "sinopsis": "Un grupo de niños busca un tesoro pirate para salvar sus hogares.",
+    "dato_curioso": "La película fue filmada en Astoria, Oregon, que ahora es un lugar de peregrinaje para fans."
+  },
+  {
+    "titulo": "Pretty Woman",
+    "anio": 1990,
+    "genero": "Romance/Comedia",
+    "sinopsis": "Un empresario contrata a una prostituta como acompañante para eventos sociales.",
+    "dato_curioso": "Julia Roberts originally gritted en la escena de la joyería porque tenía miedo de que la arrestaran."
+  },
+  {
+    "titulo": "El Securities de la Noche",
+    "anio": 1985,
+    "genero": "Comedia/Ciencia Ficción",
+    "sinopsis": "Un supuesto experto en parapsicología debe salvar Nueva York de fantasmas.",
+    "dato_curioso": "La línea 'Who you gonna call?' se convirtió en una de las más memorables de los 80."
+  }
+]
