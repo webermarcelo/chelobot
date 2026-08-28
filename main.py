@@ -28,6 +28,7 @@ async def on_ready():
         "cogs.utilidad",
         "cogs.moderacion",
         "cogs.streams",
+        "cogs.autorol",
     ]
     
     for cog in cogs_list:
@@ -41,6 +42,13 @@ async def on_ready():
     print(f"  CheloBot listo para usar!")
     print(f"  Prefijo: !")
     print(f"=========================================")
+    
+    # Sincronizar slash commands
+    try:
+        synced = await bot.tree.sync()
+        print(f"  [OK] Slash commands sincronizados: {len(synced)}")
+    except Exception as e:
+        print(f"  [ERROR] Error sincronizando slash commands: {e}")
     
     # Establecer activity (estado del bot)
     await bot.change_presence(
