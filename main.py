@@ -101,6 +101,8 @@ async def on_ready():
         "cogs.roles",
         "cogs.niveles",
         "cogs.contenido_automatico",
+        "cogs.eventos",
+        "cogs.verificacion",
     ]
     
     for cog in cogs_list:
@@ -164,6 +166,25 @@ async def ayuda(ctx):
         value=(
             "`!roles` - Ver roles disponibles\n"
             "`!rol [emoji]` - Obtener un rol"
+        ),
+        inline=False
+    )
+    
+    embed.add_field(
+        name="Eventos",
+        value=(
+            "`!crear_evento` - Crear un evento\n"
+            "`!eventos` - Ver proximos eventos\n"
+            "`!recordar_evento` - Enviar recordatorio"
+        ),
+        inline=False
+    )
+    
+    embed.add_field(
+        name="Verificacion",
+        value=(
+            "`!verificar` - Verificarse para acceder\n"
+            "`!setup_verificacion` - Configurar verificacion (admin)"
         ),
         inline=False
     )
